@@ -1,0 +1,16 @@
+@media screen and (min-width:250px) and (max-width:480px){
+    .leftside{
+        background-color: #ffb703;
+        #div1{
+            width: 10.33;
+        }
+        #div2{
+            font-size: 0.75;
+            width: 250px;
+            float:inline-start;
+        }
+    }
+    .rightside{
+        background-color: #fb8500;
+    }
+}
